@@ -1,2 +1,2 @@
-# Mini-Project-1
-Retail Order Data Analysis
+# Retail Order Data Analysis
+To analyze and optimize sales performance
